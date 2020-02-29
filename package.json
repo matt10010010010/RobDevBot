@@ -1,10 +1,10 @@
 {
 
-  "name": "Example",
+  "name": "Ascend Bot",
 
   "description": "Example",
 
-  "version": "0.0.0",
+  "version": "0.0.1",
 
   "main": "bot.js",
 
