@@ -46,4 +46,4 @@ client.on('message', message => {
 	// do the same for the rest of the commands...
 });
 
-client.login(process.env.BOT_TOKEN)
+client.login(process.env.BOT_TOKEN);
