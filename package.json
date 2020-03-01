@@ -14,11 +14,6 @@
 
   },
 
-   "repository": {
-  "type" : "git",
-  "url" : "https://github.com/matt10010010010/RobDevBot.git"
-}
-
 "dependencies": {
 
     "discord.js": "11.1.0",
