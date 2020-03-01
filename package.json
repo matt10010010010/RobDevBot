@@ -7,7 +7,12 @@
   "version": "0.0.1",
 
   "main": "bot.js",
-
+  
+  "repository": {
+  "type" : "git",
+  "url" : "https://github.com/matt10010010010/RobDevBot.git"
+}
+  
   "scripts": {
 
     "start": "node bot.js"
@@ -22,9 +27,6 @@
 
   }
   
-  "repository": {
-  "type" : "git",
-  "url" : "https://github.com/matt10010010010/RobDevBot.git"
-}
+
 
 }
